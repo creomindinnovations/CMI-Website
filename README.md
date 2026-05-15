@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CreoMind-Innovations
 🚀 A responsive and modern website for CreoMind Innovations, showcasing creative tech solutions and services. Built using HTML, CSS, JavaScript, and modern design principles. Deployed on Netlify.
 
@@ -9,3 +10,7 @@ https://creomindinnovations.netlify.app/
 
 
 ![alt text](Logo.PNG)
+=======
+# CMI-Website
+www.creomindinnovations.com
+>>>>>>> 3b5fac03cd65420ab360725e97c655c8288a3514
